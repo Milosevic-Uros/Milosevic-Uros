@@ -1,13 +1,25 @@
-👋 Hi, I'm Uros Milosevic
+# 👋 Hi, I'm Uros Milosevic
 
-💻 Web Developer | 🔐 Aspiring Penetration Tester
+### 💻 Web Developer | 🔐 Aspiring Penetration Tester
 
-I'm passionate about building for the web, exploring new technologies, and continuously improving my development and cybersecurity skills.
+I'm passionate about web development, exploring new technologies, and improving my cybersecurity skills.
 
-🌐 Website: urosmilosevic.com
+- 🌐 **Website:** [Visit my portfolio](https://www.urosmilosevic.com/)
+- 💻 **Interests:** Web Development & Cybersecurity
+- 🌱 **Currently Learning:** Penetration Testing
+- 📫 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/milosevicuros/)
 
-💻 Interests: Web Development & Cybersecurity
+---
 
-🌱 Currently Learning: Penetration Testing
+### 🌍 Find Me Online
 
-🤝 Connect with me: LinkedIn
+<a href="https://www.urosmilosevic.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Personal%20Website-Visit-blue?style=for-the-badge&logo=googlechrome" alt="Personal Website"/>
+</a>
+<a href="https://www.linkedin.com/in/milosevicuros/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+</a>
+
+---
+
+⭐ Thanks for visiting my profile!
